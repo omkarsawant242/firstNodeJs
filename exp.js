@@ -10,6 +10,6 @@ module.exports.ddd = name;
 exports.ddd = {
     name : 'Omkar Sawant',
     add: function(){
-        return 5*5
+        return 5*6
     }
 };
